@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Michael!<br><br>👨‍💻 I'm currently diving deep into the world of big monorepos, mastering the art of React, TypeScript, and Apollo GraphQL.<br><br>🌱 What I'm Learning:<br><br>    📱 Expanding my horizons with React Native<br>    🛠️ Getting my hands dirty with more Node.js<br>    🚀 Leaping into the Go universe<br><br>🔍 I'm on the Hunt For:<br>An inspiring job that challenges me to grow and contribute to something extraordinary.<br><br>🔗 Let's Connect:<br>Feel free to reach out for collaborations, code reviews, or coffee chats!
+👋 Hey there, I'm Michael!<br><br>👨‍💻 I'm currently diving deep into the world of big monorepos, mastering the art of React, TypeScript, and Apollo GraphQL.<br><br>🌱 What I'm Learning:<br><br>    📱 Expanding my horizons with React Native<br>    🛠️ Getting my hands dirty with more Node.js<br>    🚀 Leaping into the Go universe<br><br>🔍 I'm on the Hunt For:<br>An inspiring job that challenges me to grow and contribute to something extraordinary.<br><br>🔗 Let's Connect:<br>Feel free to reach out for collaborations, code reviews, or coffee chats, anything!
 
 
 # 💻 Tech Stack:
